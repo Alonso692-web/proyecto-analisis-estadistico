@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use('Agg')  # Use non-interactive backend
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy import stats
+#from scipy import stats
 import base64
 import io
 import json
